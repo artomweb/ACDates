@@ -5,5 +5,7 @@ A small web app which generates a list of dates between two days. Useful when wr
 ## Exmaple of ouptut:
 
 Thursday 6/4/2023:
+
 Friday 7/4/2023:
+
 Saturday 8/4/2023:
