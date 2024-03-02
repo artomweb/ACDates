@@ -1,6 +1,6 @@
 # Date Generator
 
-## See it [HERE](https://dates.artomweb.com)
+## See it [HERE](https://artomweb.com/ACDates/)
 
 A small web app which generates a list of dates between two days. Useful when writing your own diary or calendar in a text editor.
 
